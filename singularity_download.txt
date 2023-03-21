@@ -1,0 +1,5 @@
+https://drive.google.com/drive/folders/1ow8VByznQOsY6h-7fx3CCSZb-7YMO4aP?usp=sharing
+
+Download the singularity zip file from the above link. 
+To unzip, run (in terminal): gzip -d dasml.sif.gz
+To start singularity, run (in terminal): singularity shell --nv dasml.sif
