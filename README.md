@@ -1,5 +1,5 @@
 # DAS Microseismic Detection
-Please review lisencing information in LICENSE.txt  \
+Please review licensing information in LICENSE.txt  \
 \
 Code to run through entire processing and prediction process of our DAS microseismic prediction ML workflow.
 
